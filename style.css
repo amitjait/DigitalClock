@@ -1,0 +1,28 @@
+body{
+    margin: 0px auto;
+    background-color: black;
+}
+
+.clock{
+    color: white;
+    font-size: 50px;
+    margin: 0px auto;
+    width: 20rem;
+    border: 5px solid white;
+    margin-top: 2rem;
+    border-radius: 5px;
+    text-align: center;
+    background-color:blue;
+}
+h3{
+    color: white;
+    width: 30rem;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 50px;
+}
+
+p{
+    margin: 0px auto;
+}
